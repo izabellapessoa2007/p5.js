@@ -5,7 +5,7 @@ function setup() {
 function draw() {
   background("rgb(250,118,118)");
   fill("rgb(255,255,255)");
-  textSize(50);
+  textSize(64);
   textAlign(CENTER, CENTER)
   
   let maximo = width;

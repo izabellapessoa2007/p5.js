@@ -4,7 +4,7 @@ function setup() {
   createCanvas(400, 400);
   
   
-  let palavras = ["Not cry", "Make a smile", "You are good person", "You're pretty"];
+  let palavras = ["Not cry", "Make a smile", "You're a good person", ""];
   
   palavra = random(palavras);
 }
